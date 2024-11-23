@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather Information App 🌤️
 
 This is a Streamlit application that displays real-time weather information for a given city using the OpenWeatherMap API.
@@ -13,3 +14,6 @@ This is a Streamlit application that displays real-time weather information for 
    ```bash
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
+=======
+# weather_app2
+>>>>>>> 912d6c6ca53bdb430f5df1630301e1feac7c4479
